@@ -1,6 +1,6 @@
 # Hi, I'm Pratik Yadav 👋
 
-I'm an **AI Engineer & Software Developer** who builds LLM-powered applications — from intelligent teaching tools to AI agents. I work primarily with Python, Flask, Django, and TypeScript, integrating APIs from Anthropic and OpenAI to ship things that actually work.
+I'm an **AI Generalist** who builds LLM-powered applications — from intelligent teaching tools to AI agents. I work primarily with Python, Flask, Django, and TypeScript, integrating APIs from Anthropic and OpenAI to ship things that actually work.
 
 ---
 
