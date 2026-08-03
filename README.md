@@ -7,9 +7,10 @@ I'm a **Software Engineer** with experience building web applications and integr
 
 ## 🚀 What I build
 
-- **AI-powered web apps** — full-stack tools that use LLMs to do useful things
-- **Developer tools** — code generators, concept simplifiers, teaching assistants
-- **Security detection labs** — SIEM pipelines and threat detection with Splunk & ELK
+* **Web applications** — scalable, full-stack applications with modern architectures
+* **Mobile applications** — cross-platform apps using Flutter
+* **Developer tools** — code generators, concept simplifiers, and productivity tools
+* **Security detection labs** — SIEM pipelines and threat detection with Splunk & ELK
 
 ---
 ## Portfolio Website
@@ -28,19 +29,31 @@ I'm a **Software Engineer** with experience building web applications and integr
 
 ---
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack
 
-**AI / LLMs**
-`Anthropic Claude` · `OpenAI API` · `Prompt Engineering` · `Streaming (SSE)`
+### Programming Languages
 
-**Backend**
-`Python` · `Flask` · `Django` · `FastAPI` · `REST APIs`
+`Python` · `Dart` · `TypeScript` · `JavaScript`
 
-**Frontend**
-`TypeScript` · `JavaScript` · `HTML/CSS`
+### Mobile Development
 
-**Security & Tools**
-`Splunk SIEM` · `ELK Stack` · `Nmap` · `Git` · `Linux`
+`Flutter`
+
+### Backend
+
+`Flask` · `Django` · `FastAPI` · `REST APIs`
+
+### Frontend
+
+`HTML` · `CSS`
+
+### AI & APIs
+
+`Anthropic Claude` · `OpenAI API` · `Prompt Engineering` 
+
+### Tools
+
+`Git` · `Linux`
 
 ---
 
