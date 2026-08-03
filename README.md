@@ -1,6 +1,7 @@
 # Hi, I'm Pratik Yadav 👋
 
-I'm an **AI Generalist** who builds LLM-powered applications — from intelligent teaching tools to AI agents. I work primarily with Python, Flask, Django, and TypeScript, integrating APIs from Anthropic and OpenAI to ship things that actually work.
+I'm a **Software Engineer** with experience building web applications and integrating AI technologies into software products. I enjoy developing scalable applications, solving complex problems, and delivering solutions that provide real value to users.
+
 
 ---
 
@@ -58,4 +59,4 @@ I'm an **AI Generalist** who builds LLM-powered applications — from intelligen
 
 ---
 
-*Open to AI Engineer, Software Developer, and ML Engineering roles. Feel free to reach out!*
+*Open to Software Engineer and Software Developer roles. Feel free to reach out!*
